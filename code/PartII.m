@@ -1,5 +1,5 @@
 %% 0. Load data
-load("C:\Users\a1805\Desktop\sensorlog.mat");
+load("sensorlog.mat");
 
 %% 1. Extract GPS data
 lat = Position.latitude;
